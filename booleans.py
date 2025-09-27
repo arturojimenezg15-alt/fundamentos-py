@@ -3,7 +3,7 @@
 from variables import x, y
 
 print(x)
-print = 23
+x = 23
 
 print(f"valor de x: {x}, valor de y: {y}")
 
