@@ -1,0 +1,12 @@
+# operadores booleanos
+# true o false
+from variables import x, y
+
+print(x)
+print = 23
+
+print(f"valor de x: {x}, valor de y: {y}")
+
+
+print(x >= y)
+
