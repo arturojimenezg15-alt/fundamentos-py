@@ -10,7 +10,7 @@ pi = 3.14
 # cadenas de texto
 greeting = "Hola, Mundo!"
 #print(type(greeting)) #<class 'str'>
-g
+
 # booleanos
 is_active = True
 #print(type(is_active)) #<class 'bool'>
